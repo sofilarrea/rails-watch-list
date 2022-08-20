@@ -1,0 +1,7 @@
+<div class="banner" style="background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(<%= asset_path('cardslist.jpg') %>);">
+  <div class="container">
+    <h1>Save any kind of <strong>movies</strong>!</h1>
+    <p>Make your own lists of your favourites movies.</p>
+    <a class="btn btn-flat" href="#">New List</a>
+  </div>
+</div>

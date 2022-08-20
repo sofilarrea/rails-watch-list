@@ -7,3 +7,4 @@ class Movie < ApplicationRecord
 
 end
 
+
